@@ -8,7 +8,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Home | Welcome</title>
+    <title><?php echo TITLE; ?></title>
     <link href="/assets/styles.css" rel="stylesheet">
 </head>
 
