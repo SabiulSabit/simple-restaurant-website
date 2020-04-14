@@ -1,4 +1,5 @@
 <?php 
+  $ownerName = "SabitTheBot";
   include('includes/arrays.php');
 ?>
 
